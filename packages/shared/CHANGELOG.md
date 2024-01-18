@@ -1,5 +1,14 @@
 # @uploadthing/shared
 
+## 6.1.0
+
+### Minor Changes
+
+- [#545](https://github.com/pingdotgg/uploadthing/pull/545)
+  [`2d8b31c`](https://github.com/pingdotgg/uploadthing/commit/2d8b31c57260e3607ea16ce9dfcfeee08b074933)
+  Thanks [@juliusmarminge](https://github.com/juliusmarminge)! - feat: add
+  `logLevel` option to enable more verbose logging
+
 ## 6.0.3
 
 ### Patch Changes
